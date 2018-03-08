@@ -1,0 +1,3808 @@
+﻿{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-03-08T12:58:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41107655",
+        "building": "yes",
+        "craft": "brewery",
+        "name": "Lervig Aktiebryggeri",
+        "operator": "Lervig Aktiebryggeri",
+        "website": "http://www.lervig.no/",
+        "wikidata": "Q11983781",
+        "wikipedia": "no:Lervig Aktiebryggeri"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.7456662,
+              58.9457463
+            ],
+            [
+              5.7456911,
+              58.9456847
+            ],
+            [
+              5.7457318,
+              58.9455895
+            ],
+            [
+              5.7457386,
+              58.9455735
+            ],
+            [
+              5.746619,
+              58.9456703
+            ],
+            [
+              5.7465473,
+              58.9458437
+            ],
+            [
+              5.7456662,
+              58.9457463
+            ]
+          ]
+        ]
+      },
+      "id": "way/41107655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/43268475",
+        "building": "industrial",
+        "industrial": "brewery",
+        "name": "Ringnes Bryggeri",
+        "website": "http://www.ringnes.no/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.9321061,
+              59.9930976
+            ],
+            [
+              10.9319259,
+              59.993016
+            ],
+            [
+              10.9318365,
+              59.9930732
+            ],
+            [
+              10.9317027,
+              59.9930203
+            ],
+            [
+              10.9312221,
+              59.9933079
+            ],
+            [
+              10.9301749,
+              59.9928572
+            ],
+            [
+              10.9299775,
+              59.9929774
+            ],
+            [
+              10.9298488,
+              59.9929216
+            ],
+            [
+              10.9301149,
+              59.9927499
+            ],
+            [
+              10.9292394,
+              59.9923635
+            ],
+            [
+              10.9298425,
+              59.9920068
+            ],
+            [
+              10.9298961,
+              59.9919748
+            ],
+            [
+              10.9303294,
+              59.9917111
+            ],
+            [
+              10.9306213,
+              59.9918398
+            ],
+            [
+              10.9309302,
+              59.9916381
+            ],
+            [
+              10.9306642,
+              59.9915222
+            ],
+            [
+              10.9309412,
+              59.9913343
+            ],
+            [
+              10.9310037,
+              59.9912974
+            ],
+            [
+              10.9314109,
+              59.9910801
+            ],
+            [
+              10.9323035,
+              59.9914621
+            ],
+            [
+              10.9331618,
+              59.9909641
+            ],
+            [
+              10.9343463,
+              59.9914964
+            ],
+            [
+              10.9344236,
+              59.9914492
+            ],
+            [
+              10.9346295,
+              59.9915437
+            ],
+            [
+              10.9345609,
+              59.9915866
+            ],
+            [
+              10.9346038,
+              59.9916123
+            ],
+            [
+              10.9340974,
+              59.9919214
+            ],
+            [
+              10.9341489,
+              59.9919472
+            ],
+            [
+              10.9340888,
+              59.9919815
+            ],
+            [
+              10.9340373,
+              59.99196
+            ],
+            [
+              10.9331876,
+              59.9924537
+            ],
+            [
+              10.9332477,
+              59.9924794
+            ],
+            [
+              10.9331618,
+              59.9925267
+            ],
+            [
+              10.9331103,
+              59.9925009
+            ],
+            [
+              10.9322606,
+              59.9930031
+            ],
+            [
+              10.9323035,
+              59.9930289
+            ],
+            [
+              10.9322349,
+              59.9930675
+            ],
+            [
+              10.932192,
+              59.993046
+            ],
+            [
+              10.9321061,
+              59.9930976
+            ]
+          ]
+        ]
+      },
+      "id": "way/43268475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93633721",
+        "building": "manufacture",
+        "industrial": "brewery",
+        "name": "Borg Bryggerier",
+        "operator": "Hansa Borg",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.1110987,
+              59.2903587
+            ],
+            [
+              11.1115335,
+              59.2902965
+            ],
+            [
+              11.1115607,
+              59.2903461
+            ],
+            [
+              11.1120729,
+              59.2902728
+            ],
+            [
+              11.1121015,
+              59.2903249
+            ],
+            [
+              11.1131298,
+              59.2901777
+            ],
+            [
+              11.1132173,
+              59.290337
+            ],
+            [
+              11.1133112,
+              59.2903236
+            ],
+            [
+              11.1134998,
+              59.2906671
+            ],
+            [
+              11.1134124,
+              59.2906796
+            ],
+            [
+              11.1134927,
+              59.2908259
+            ],
+            [
+              11.1124554,
+              59.2909744
+            ],
+            [
+              11.1123663,
+              59.290812
+            ],
+            [
+              11.1122375,
+              59.2908305
+            ],
+            [
+              11.1122819,
+              59.2909114
+            ],
+            [
+              11.1120682,
+              59.290942
+            ],
+            [
+              11.1120228,
+              59.2908593
+            ],
+            [
+              11.111778,
+              59.2908944
+            ],
+            [
+              11.1116655,
+              59.2906894
+            ],
+            [
+              11.1114253,
+              59.2907238
+            ],
+            [
+              11.1114628,
+              59.2907922
+            ],
+            [
+              11.1113478,
+              59.2908086
+            ],
+            [
+              11.1113306,
+              59.2907773
+            ],
+            [
+              11.1113557,
+              59.2907737
+            ],
+            [
+              11.1112734,
+              59.2906238
+            ],
+            [
+              11.1112463,
+              59.2906277
+            ],
+            [
+              11.1110987,
+              59.2903587
+            ]
+          ]
+        ]
+      },
+      "id": "way/93633721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96343522",
+        "addr:city": "Drammen",
+        "addr:housenumber": "6d",
+        "addr:postcode": "3012",
+        "addr:street": "Jacob Borchs gate",
+        "building": "yes",
+        "craft": "brewery",
+        "name": "Haandbryggeriet",
+        "website": "http://www.haandbryggeriet.net"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2308395,
+              59.7421598
+            ],
+            [
+              10.2309224,
+              59.7420933
+            ],
+            [
+              10.231139,
+              59.7419194
+            ],
+            [
+              10.2319306,
+              59.7421698
+            ],
+            [
+              10.2316311,
+              59.7424102
+            ],
+            [
+              10.2308395,
+              59.7421598
+            ]
+          ]
+        ]
+      },
+      "id": "way/96343522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/99860092",
+        "building": "yes",
+        "industrial": "brewery",
+        "man_made": "works",
+        "name": "E. C. Dahls Bryggeri",
+        "operator": "Ringnes Bryggeri",
+        "website": "http://www.ecdahls.no/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.4256843,
+              63.4408174
+            ],
+            [
+              10.4260844,
+              63.4407209
+            ],
+            [
+              10.4256953,
+              63.4403982
+            ],
+            [
+              10.4269573,
+              63.4400939
+            ],
+            [
+              10.4273932,
+              63.4404553
+            ],
+            [
+              10.4278118,
+              63.4403544
+            ],
+            [
+              10.4278695,
+              63.4403934
+            ],
+            [
+              10.4280093,
+              63.4405019
+            ],
+            [
+              10.4282225,
+              63.440695
+            ],
+            [
+              10.4283198,
+              63.4406715
+            ],
+            [
+              10.4286255,
+              63.440925
+            ],
+            [
+              10.4284133,
+              63.4409762
+            ],
+            [
+              10.4283347,
+              63.440911
+            ],
+            [
+              10.4280064,
+              63.4409902
+            ],
+            [
+              10.4281084,
+              63.4410748
+            ],
+            [
+              10.4276696,
+              63.4411806
+            ],
+            [
+              10.4275697,
+              63.4410977
+            ],
+            [
+              10.4273895,
+              63.4411412
+            ],
+            [
+              10.4276458,
+              63.4413537
+            ],
+            [
+              10.4274695,
+              63.4413962
+            ],
+            [
+              10.4276294,
+              63.4415288
+            ],
+            [
+              10.4272365,
+              63.4416235
+            ],
+            [
+              10.4270731,
+              63.441488
+            ],
+            [
+              10.4268605,
+              63.4415392
+            ],
+            [
+              10.4270601,
+              63.4417047
+            ],
+            [
+              10.4276666,
+              63.4415585
+            ],
+            [
+              10.4277976,
+              63.4416671
+            ],
+            [
+              10.4271734,
+              63.4418176
+            ],
+            [
+              10.4272383,
+              63.4418714
+            ],
+            [
+              10.4273708,
+              63.4419812
+            ],
+            [
+              10.4271517,
+              63.4420341
+            ],
+            [
+              10.4256843,
+              63.4408174
+            ]
+          ]
+        ]
+      },
+      "id": "way/99860092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109896187",
+        "addr:city": "Kristiansand S",
+        "addr:housenumber": "9",
+        "addr:postcode": "4611",
+        "addr:street": "Tollbodgata",
+        "amenity": "pub",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Christianssand Brygghus",
+        "website": "http://www.mat-uteliv.no/christianssand-brygghus/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.994128,
+              58.1445508
+            ],
+            [
+              7.9939405,
+              58.1446467
+            ],
+            [
+              7.9937321,
+              58.1445333
+            ],
+            [
+              7.9939195,
+              58.1444374
+            ],
+            [
+              7.994128,
+              58.1445508
+            ]
+          ]
+        ]
+      },
+      "id": "way/109896187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109991521",
+        "email": "kundesenter@hansaborg.no",
+        "industrial": "brewery",
+        "landuse": "industrial",
+        "name": "Christianssands Bryggeri",
+        "operator": "Hansa Borg",
+        "phone": "+47 815 59500",
+        "website": "http://hansaborg.no/bryggerier/cb/",
+        "wikidata": "Q1083003",
+        "wikipedia": "no:Christianssands Bryggeri"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.9770129,
+              58.1481222
+            ],
+            [
+              7.9773164,
+              58.14796
+            ],
+            [
+              7.9778565,
+              58.1477717
+            ],
+            [
+              7.9782574,
+              58.1476448
+            ],
+            [
+              7.9784845,
+              58.1475279
+            ],
+            [
+              7.9789312,
+              58.1472086
+            ],
+            [
+              7.979332,
+              58.1469003
+            ],
+            [
+              7.979561,
+              58.1467301
+            ],
+            [
+              7.9797602,
+              58.1466137
+            ],
+            [
+              7.9801018,
+              58.1468363
+            ],
+            [
+              7.9806234,
+              58.1471754
+            ],
+            [
+              7.9812353,
+              58.1476077
+            ],
+            [
+              7.9806796,
+              58.1478371
+            ],
+            [
+              7.9798149,
+              58.1483035
+            ],
+            [
+              7.9794866,
+              58.1484627
+            ],
+            [
+              7.9791602,
+              58.1485997
+            ],
+            [
+              7.9789407,
+              58.1486762
+            ],
+            [
+              7.9786009,
+              58.1487709
+            ],
+            [
+              7.9783547,
+              58.1488052
+            ],
+            [
+              7.9781409,
+              58.1488041
+            ],
+            [
+              7.977994,
+              58.1487508
+            ],
+            [
+              7.9770129,
+              58.1481222
+            ]
+          ]
+        ]
+      },
+      "id": "way/109991521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/111637612",
+        "building": "yes",
+        "craft": "brewery",
+        "industrial": "brewery",
+        "name": "Aass bryggeri",
+        "website": "http://www.aass.no/",
+        "wikidata": "Q303690",
+        "wikipedia": "en:Aass Brewery",
+        "wikipedia:de": "Aass Bryggeri",
+        "wikipedia:nn": "Aass Bryggeri",
+        "wikipedia:no": "Aass Bryggeri"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2091231,
+              59.7418825
+            ],
+            [
+              10.2089139,
+              59.7416744
+            ],
+            [
+              10.2106614,
+              59.7412466
+            ],
+            [
+              10.211061,
+              59.7411682
+            ],
+            [
+              10.2110852,
+              59.7411892
+            ],
+            [
+              10.2112373,
+              59.7411514
+            ],
+            [
+              10.2114473,
+              59.7410993
+            ],
+            [
+              10.2125416,
+              59.7409155
+            ],
+            [
+              10.2126577,
+              59.7412656
+            ],
+            [
+              10.2127722,
+              59.7416109
+            ],
+            [
+              10.212722,
+              59.7416152
+            ],
+            [
+              10.2117924,
+              59.7416886
+            ],
+            [
+              10.210711,
+              59.7420542
+            ],
+            [
+              10.2106037,
+              59.7419677
+            ],
+            [
+              10.2107458,
+              59.7419177
+            ],
+            [
+              10.2104052,
+              59.7416298
+            ],
+            [
+              10.2104535,
+              59.7416136
+            ],
+            [
+              10.2104213,
+              59.7415541
+            ],
+            [
+              10.2091231,
+              59.7418825
+            ]
+          ]
+        ]
+      },
+      "id": "way/111637612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/112292885",
+        "building": "yes",
+        "craft": "brewery",
+        "name": "Little Brother Brewery",
+        "source": "bing",
+        "website": "http://littlebrothercraftbrewery.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.7446715,
+              59.9193587
+            ],
+            [
+              10.7448013,
+              59.919292
+            ],
+            [
+              10.7449935,
+              59.9193866
+            ],
+            [
+              10.7448721,
+              59.9194466
+            ],
+            [
+              10.7446715,
+              59.9193587
+            ]
+          ]
+        ]
+      },
+      "id": "way/112292885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113512370",
+        "addr:city": "Oslo",
+        "addr:housenumber": "23A",
+        "addr:postcode": "0459",
+        "addr:street": "Sagveien",
+        "building": "yes",
+        "craft": "brewery",
+        "name": "Sagene Bryggeri",
+        "source": "bing",
+        "website": "http://www.sagenebryggeri.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.7562002,
+              59.9309768
+            ],
+            [
+              10.7564078,
+              59.9309467
+            ],
+            [
+              10.7564874,
+              59.930954
+            ],
+            [
+              10.756545,
+              59.9310587
+            ],
+            [
+              10.7563215,
+              59.9310882
+            ],
+            [
+              10.7563079,
+              59.9310624
+            ],
+            [
+              10.7562492,
+              59.9310701
+            ],
+            [
+              10.7562002,
+              59.9309768
+            ]
+          ]
+        ]
+      },
+      "id": "way/113512370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/223215237",
+        "building": "yes",
+        "craft": "brewery",
+        "name": "Ægir Bryggeri",
+        "website": "http://www.flamsbrygga.no/aegir-bryggeri/",
+        "wikipedia:nn": "Ægir Bryggeri",
+        "wikipedia:no": "Ægir Bryggeri"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.1071009,
+              60.8588141
+            ],
+            [
+              7.1074304,
+              60.8582917
+            ],
+            [
+              7.1075595,
+              60.8582537
+            ],
+            [
+              7.1076904,
+              60.8582537
+            ],
+            [
+              7.1077866,
+              60.8582982
+            ],
+            [
+              7.1078314,
+              60.8583517
+            ],
+            [
+              7.1075019,
+              60.858874
+            ],
+            [
+              7.1071009,
+              60.8588141
+            ]
+          ]
+        ]
+      },
+      "id": "way/223215237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224736260",
+        "addr:city": "Trondheim",
+        "addr:housenumber": "45",
+        "addr:postcode": "7018",
+        "addr:street": "Osloveien",
+        "building": "yes",
+        "craft": "brewery",
+        "name": "To Tårn Bryggeri",
+        "website": "http://www.totaarn.no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3749174,
+              63.4231594
+            ],
+            [
+              10.3750388,
+              63.4229985
+            ],
+            [
+              10.3751552,
+              63.4230161
+            ],
+            [
+              10.3750338,
+              63.423177
+            ],
+            [
+              10.3749174,
+              63.4231594
+            ]
+          ]
+        ]
+      },
+      "id": "way/224736260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/237603048",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Finsehytta",
+        "note": "Boarding house. Open seasonally.",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.5062369,
+              60.5981758
+            ],
+            [
+              7.5061934,
+              60.5980834
+            ],
+            [
+              7.5066148,
+              60.5980356
+            ],
+            [
+              7.5065814,
+              60.5979647
+            ],
+            [
+              7.5072216,
+              60.597892
+            ],
+            [
+              7.5072374,
+              60.5979255
+            ],
+            [
+              7.5073325,
+              60.5979147
+            ],
+            [
+              7.5075587,
+              60.597889
+            ],
+            [
+              7.5075978,
+              60.597972
+            ],
+            [
+              7.5073526,
+              60.5979998
+            ],
+            [
+              7.507364,
+              60.598024
+            ],
+            [
+              7.5072302,
+              60.5980392
+            ],
+            [
+              7.5072396,
+              60.598059
+            ],
+            [
+              7.5070553,
+              60.59808
+            ],
+            [
+              7.507047,
+              60.5980624
+            ],
+            [
+              7.5066836,
+              60.5981037
+            ],
+            [
+              7.5067104,
+              60.5981604
+            ],
+            [
+              7.5065417,
+              60.5981796
+            ],
+            [
+              7.5065246,
+              60.5981432
+            ],
+            [
+              7.5062369,
+              60.5981758
+            ]
+          ]
+        ]
+      },
+      "id": "way/237603048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/280773787",
+        "building": "yes",
+        "craft": "brewery",
+        "name": "Inderøy Gårdsbryggeri",
+        "operator": "Inderøy Gårdsbryggeri",
+        "website": "http://www.igb.no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.1859937,
+              63.867747
+            ],
+            [
+              11.1863812,
+              63.8674783
+            ],
+            [
+              11.1865543,
+              63.8675267
+            ],
+            [
+              11.1862924,
+              63.8677083
+            ],
+            [
+              11.1865619,
+              63.8677837
+            ],
+            [
+              11.1864362,
+              63.8678708
+            ],
+            [
+              11.1859937,
+              63.867747
+            ]
+          ]
+        ]
+      },
+      "id": "way/280773787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293971609",
+        "addr:city": "Torp",
+        "addr:housenumber": "10",
+        "addr:postcode": "1658",
+        "addr:street": "Sulfatveien",
+        "building": "yes",
+        "building:levels": "2",
+        "craft": "brewery",
+        "name": "Ego Brygghus",
+        "operator": "Ego Brygghus",
+        "website": "http://www.ego-brygghus.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.0096079,
+              59.2435228
+            ],
+            [
+              11.0093959,
+              59.2433287
+            ],
+            [
+              11.0097291,
+              59.2432367
+            ],
+            [
+              11.0099269,
+              59.2434362
+            ],
+            [
+              11.0096079,
+              59.2435228
+            ]
+          ]
+        ]
+      },
+      "id": "way/293971609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/295735948",
+        "building": "yes",
+        "craft": "brewery",
+        "name": "Hubertus bryggeri",
+        "old_name": "Skeievoll skole",
+        "website": "http://hubertusbryggeri.no/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.18724,
+              62.0234198
+            ],
+            [
+              9.1876082,
+              62.0235777
+            ],
+            [
+              9.1874556,
+              62.023656
+            ],
+            [
+              9.187238,
+              62.0235627
+            ],
+            [
+              9.187155,
+              62.0236053
+            ],
+            [
+              9.1870044,
+              62.0235408
+            ],
+            [
+              9.18724,
+              62.0234198
+            ]
+          ]
+        ]
+      },
+      "id": "way/295735948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/393494874",
+        "building": "yes",
+        "craft": "brewery",
+        "name": "Laagen Bryggeri",
+        "website": "http://laagenbryggeri.no/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.0625138,
+              61.5490782
+            ],
+            [
+              10.0622999,
+              61.5486838
+            ],
+            [
+              10.0625569,
+              61.5486521
+            ],
+            [
+              10.0627708,
+              61.5490466
+            ],
+            [
+              10.0625138,
+              61.5490782
+            ]
+          ]
+        ]
+      },
+      "id": "way/393494874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/394545237",
+        "alt_name": "Elvebakken gård",
+        "amenity": "events_venue",
+        "building": "yes",
+        "microbrewery": "yes",
+        "name": "Svensefjøset"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.2499809,
+              59.7832453
+            ],
+            [
+              10.2500009,
+              59.7830937
+            ],
+            [
+              10.2505508,
+              59.783112
+            ],
+            [
+              10.2505544,
+              59.7830848
+            ],
+            [
+              10.2507847,
+              59.7830925
+            ],
+            [
+              10.2507808,
+              59.7831218
+            ],
+            [
+              10.2508792,
+              59.7831251
+            ],
+            [
+              10.2508594,
+              59.7832746
+            ],
+            [
+              10.2499809,
+              59.7832453
+            ]
+          ]
+        ]
+      },
+      "id": "way/394545237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482225150",
+        "addr:city": "Tau",
+        "addr:housenumber": "8",
+        "addr:postcode": "4120",
+        "addr:street": "Bergtunvegen",
+        "amenity": "restaurant",
+        "amenity_1": "brewery",
+        "area": "yes",
+        "building": "yes",
+        "internet_access": "yes",
+        "microbrewery": "yes",
+        "name": "Lilland Bryggerihotell",
+        "tourism": "hotel",
+        "website": "http://lillandhotell.no/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.9140397,
+              59.0660397
+            ],
+            [
+              5.9140636,
+              59.0660235
+            ],
+            [
+              5.9140709,
+              59.0660264
+            ],
+            [
+              5.9141102,
+              59.0659953
+            ],
+            [
+              5.9141231,
+              59.0659999
+            ],
+            [
+              5.9141562,
+              59.0659775
+            ],
+            [
+              5.9142335,
+              59.0660045
+            ],
+            [
+              5.9142111,
+              59.0660182
+            ],
+            [
+              5.9143421,
+              59.0660655
+            ],
+            [
+              5.9144094,
+              59.0660243
+            ],
+            [
+              5.9144927,
+              59.0660645
+            ],
+            [
+              5.9144672,
+              59.0660811
+            ],
+            [
+              5.9146507,
+              59.0661563
+            ],
+            [
+              5.9146096,
+              59.0661838
+            ],
+            [
+              5.9146055,
+              59.0661822
+            ],
+            [
+              5.9145824,
+              59.0661977
+            ],
+            [
+              5.9145626,
+              59.06619
+            ],
+            [
+              5.9144957,
+              59.066235
+            ],
+            [
+              5.9144681,
+              59.0662242
+            ],
+            [
+              5.9144477,
+              59.0662379
+            ],
+            [
+              5.9144281,
+              59.0662303
+            ],
+            [
+              5.9143723,
+              59.0662679
+            ],
+            [
+              5.9142503,
+              59.0662202
+            ],
+            [
+              5.9142847,
+              59.0661969
+            ],
+            [
+              5.9142339,
+              59.066177
+            ],
+            [
+              5.9142069,
+              59.0661952
+            ],
+            [
+              5.9141042,
+              59.0661551
+            ],
+            [
+              5.9141448,
+              59.0661276
+            ],
+            [
+              5.9141263,
+              59.0661204
+            ],
+            [
+              5.9141411,
+              59.0661104
+            ],
+            [
+              5.9140325,
+              59.066068
+            ],
+            [
+              5.9140617,
+              59.0660483
+            ],
+            [
+              5.9140397,
+              59.0660397
+            ]
+          ]
+        ]
+      },
+      "id": "way/482225150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/33209415",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Daglighallen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3957807,
+          63.4224338
+        ]
+      },
+      "id": "node/33209415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/153142045",
+        "amenity": "pub",
+        "craft": "brewery",
+        "food": "yes",
+        "microbrewery": "yes",
+        "name": "Trondhjem Mikrobryggeri",
+        "opening_hours": "Mo 15:00-24:00; Th-Fr 15:00-02:00; Sa 12:00-02:00; Su Closed",
+        "outdoor_seating": "yes",
+        "website": "http://www.tmb.no/",
+        "wheelchair": "limited",
+        "wikidata": "Q12007654",
+        "wikipedia": "no:Trondhjem Mikrobryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3928913,
+          63.4313285
+        ]
+      },
+      "id": "node/153142045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/311166353",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Oslo Mikrobryggeri",
+        "website": "http://www.mikrobryggeriet.no/index.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7241227,
+          59.9242717
+        ]
+      },
+      "id": "node/311166353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/355320757",
+        "addr:city": "Oslo",
+        "addr:country": "NO",
+        "addr:housenumber": "30A",
+        "addr:postcode": "0484",
+        "addr:street": "Nydalsveien",
+        "amenity": "restaurant",
+        "microbrewery": "yes",
+        "name": "Nydalen Bryggeri og Spiseri",
+        "phone": "+47 22 23 94 40",
+        "smoking": "outside",
+        "source": "Homepage",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.nydalenbryggeri.no/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7645118,
+          59.9500591
+        ]
+      },
+      "id": "node/355320757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/682348373",
+        "amenity": "restaurant",
+        "microbrewery": "yes",
+        "name": "Klostergården",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.klostergardentautra.no/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6230267,
+          63.5838664
+        ]
+      },
+      "id": "node/682348373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/850838152",
+        "addr:city": "Mandal",
+        "addr:housenumber": "45A",
+        "addr:postcode": "4514",
+        "addr:street": "Store Elvegate",
+        "amenity": "cafe",
+        "microbrewery": "yes",
+        "name": "Provianten",
+        "operator": "Provianten Brygghus",
+        "website": "http://www.provianten.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4574212,
+          58.0278165
+        ]
+      },
+      "id": "node/850838152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/858405752",
+        "addr:city": "Atna",
+        "addr:postcode": "2476",
+        "addr:street": "Glopveien",
+        "brewery": "yes",
+        "building": "brewery",
+        "contact:phone": "+47 62 463024",
+        "contact:website": "http://www.atnaol.no/",
+        "craft": "brewery",
+        "name": "Atna Øl",
+        "website": "http://atnaol.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8369997,
+          61.7292135
+        ]
+      },
+      "id": "node/858405752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/942521179",
+        "addr:country": "NO",
+        "addr:housenumber": "2",
+        "addr:street": "Trondheimsveien",
+        "amenity": "pub",
+        "email": "schouskjelleren@gmail.com",
+        "microbrewery": "yes",
+        "name": "Schouskjelleren Mikrobryggeri",
+        "opening_hours": "Mo-Tu 16:00-01:00; We-Th 16:00-02:00; Fr 15:00-03:30; Sa 16:00-03:30; Su 16:00-00:00",
+        "website": "http://schouskjelleren.no/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7602104,
+          59.918368
+        ]
+      },
+      "id": "node/942521179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1217268836",
+        "amenity": "restaurant",
+        "microbrewery": "yes",
+        "name": "Skaslien Gjestgiveri",
+        "tourism": "hotel",
+        "website": "http://skaslien.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0629421,
+          60.4644166
+        ]
+      },
+      "id": "node/1217268836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1356458780",
+        "addr:city": "Espedalen",
+        "addr:housenumber": "2418",
+        "addr:postcode": "2658",
+        "addr:street": "Espedalsvegen",
+        "capacity": "65",
+        "dnt:classification": "betjent",
+        "dnt:iid": "1279",
+        "ele": "860",
+        "microbrewery": "yes",
+        "name": "Ruten Fjellstue",
+        "network": "Den Norske Turistforening",
+        "operator": "Espedalen Fjellbryggeri",
+        "service": "full",
+        "source": "Den Norske Turistforening",
+        "source:date": "2011-02-11 15:45:53",
+        "tourism": "alpine_hut",
+        "website": "http://ut.no/hytte/ruten-fjellstue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.449979,
+          61.4719399
+        ]
+      },
+      "id": "node/1356458780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1422714233",
+        "amenity": "cafe",
+        "microbrewery": "yes",
+        "name": "Wesselgården",
+        "website": "http://www.wesselgaarden-kil.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.301744,
+          58.890594
+        ]
+      },
+      "id": "node/1422714233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1847131761",
+        "addr:city": "Bergen",
+        "addr:housenumber": "76",
+        "addr:postcode": "5022",
+        "addr:street": "Kalfarveien",
+        "alt_name": "Waldemars Mikrobryggeri",
+        "amenity": "restaurant",
+        "brewery": "Hansa",
+        "email": "post@kalfaretbrygghus.no",
+        "microbrewery": "yes",
+        "name": "Kalfaret Brygghus",
+        "opening_hours": "Th 16:00-24:00",
+        "operator": "Waldemars Mikrobryggeri",
+        "phone": "+47 55 31 19 50",
+        "source": "Survey",
+        "website": "http://www.kalfaretbrygghus.no/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3486138,
+          60.3866158
+        ]
+      },
+      "id": "node/1847131761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2296733259",
+        "addr:city": "Egersund",
+        "addr:housenumber": "28",
+        "addr:postcode": "4370",
+        "addr:street": "Jernbaneveien",
+        "craft": "brewery",
+        "industrial": "brewery",
+        "name": "Berentsens Brygghus AS",
+        "opening_hours": "Mo-Fr 09:00-20:00, Sa 09:00-18:00",
+        "phone": "51 49 14 60",
+        "tourism": "attraction",
+        "website": "http://www.berentsens.no/",
+        "wikidata": "Q11960618",
+        "wikipedia": "no:Berentsens Brygghus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.003798,
+          58.4579674
+        ]
+      },
+      "id": "node/2296733259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2667403841",
+        "addr:housename": "Gastropub",
+        "addr:housenumber": "20",
+        "addr:postcode": "0161",
+        "addr:street": "Stortingsgata",
+        "amenity": "pub",
+        "brewery": "Beavertown Bloody 'Ell;To Øl Wit or Witout;Rådanäs California Common;Amundsen DePeach Mode;BBP - Delta IPA;Amundsen Stor Raudur",
+        "internet_access": "yes",
+        "microbrewery": "yes",
+        "name": "Amundsen Bryggeri og Spiseri",
+        "note": "Entry from Roal Amundsensgate",
+        "website": "http://www.amundsenbryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7348069,
+          59.9134993
+        ]
+      },
+      "id": "node/2667403841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2949645533",
+        "amenity": "bar",
+        "microbrewery": "yes",
+        "name": "Crowbar & Bryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7534487,
+          59.9172003
+        ]
+      },
+      "id": "node/2949645533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3364608915",
+        "craft": "brewery",
+        "name": "Numedal Stasjons Bryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2940602,
+          59.9849854
+        ]
+      },
+      "id": "node/3364608915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3455337143",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Ekspedisjonen Skjenkestove",
+        "smoking": "outside",
+        "website": "http://www.ekspedisjonen.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.658512,
+          60.3255006
+        ]
+      },
+      "id": "node/3455337143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3456426833",
+        "addr:city": "Voss",
+        "addr:housenumber": "396",
+        "addr:postcode": "5700",
+        "addr:street": "Kytesvegen",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Voss Bryggeri",
+        "operator": "Voss Bryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5085316,
+          60.6734253
+        ]
+      },
+      "id": "node/3456426833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3643914726",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Den gylne høne",
+        "outdoor_seating": "yes",
+        "real_ale": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3882892,
+          59.1200523
+        ]
+      },
+      "id": "node/3643914726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3768498414",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Bryggeripuben",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6452837,
+          59.664177
+        ]
+      },
+      "id": "node/3768498414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3826475163",
+        "addr:city": "Trondheim",
+        "addr:housenumber": "48",
+        "addr:postcode": "7018",
+        "addr:street": "Bynesveien",
+        "craft": "brewery",
+        "name": "Austmann Bryggeri",
+        "website": "http://austmann.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.34827,
+          63.4427235
+        ]
+      },
+      "id": "node/3826475163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3828324759",
+        "craft": "brewery",
+        "name": "Reins Kloster",
+        "website": "http://reinskloster.no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9215526,
+          63.5647767
+        ]
+      },
+      "id": "node/3828324759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3828386263",
+        "craft": "brewery",
+        "name": "Låven mikrobryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2700583,
+          59.898512
+        ]
+      },
+      "id": "node/3828386263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3828856358",
+        "addr:city": "Oslo",
+        "addr:housenumber": "17",
+        "addr:postcode": "0167",
+        "addr:street": "Wergelandsveien",
+        "craft": "brewery",
+        "name": "Dronebrygg",
+        "operator": "Dronebrygg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7306558,
+          59.9193872
+        ]
+      },
+      "id": "node/3828856358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3828856359",
+        "addr:city": "Vettre",
+        "addr:housenumber": "20",
+        "addr:postcode": "1392",
+        "addr:street": "L. P. Wettres Vei",
+        "craft": "brewery",
+        "name": "Wettre Bryggeri",
+        "operator": "Wettre Bryggeri",
+        "website": "http://www.wettrebryggeri.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4793838,
+          59.8261471
+        ]
+      },
+      "id": "node/3828856359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3828919457",
+        "addr:city": "Skjærhalden",
+        "addr:housenumber": "2",
+        "addr:postcode": "1680",
+        "addr:street": "Vestre veien",
+        "craft": "brewery",
+        "name": "Kofoedbryggeriet",
+        "operator": "Kofoedbryggeriet",
+        "shop": "craft",
+        "website": "http://kofoedbryggeriet.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0054923,
+          59.0381974
+        ]
+      },
+      "id": "node/3828919457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3828919458",
+        "addr:city": "Gamle Fredrikstad",
+        "addr:housenumber": "2",
+        "addr:postcode": "1630",
+        "addr:street": "Øraveien",
+        "craft": "brewery",
+        "name": "Nøisom Craft Beer",
+        "operator": "Nøisom Craft Beer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9512122,
+          59.1960011
+        ]
+      },
+      "id": "node/3828919458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3828919459",
+        "addr:city": "Tønsberg",
+        "addr:housenumber": "5",
+        "addr:postcode": "3116",
+        "addr:street": "Tordenskjolds gate",
+        "craft": "brewery",
+        "name": "Færder Mikrobryggeri",
+        "website": "http://www.faerdermikrobryggeri.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4149645,
+          59.2689943
+        ]
+      },
+      "id": "node/3828919459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3828919461",
+        "industrial": "brewery",
+        "name": "Grans Bryggeri",
+        "operator": "Grans Bryggeri",
+        "website": "http://www.grans.no/",
+        "wikipedia:en": "Grans Brewery",
+        "wikipedia:nn": "Grans Bryggeri",
+        "wikipedia:no": "Grans Bryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2417282,
+          59.1296628
+        ]
+      },
+      "id": "node/3828919461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3828919462",
+        "addr:city": "Sandefjord",
+        "addr:housenumber": "4",
+        "addr:postcode": "3210",
+        "addr:street": "Torggata",
+        "craft": "brewery",
+        "name": "Sandar Haandverksbryggeri",
+        "operator": "Sandar Haandverksbryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.224138,
+          59.1302686
+        ]
+      },
+      "id": "node/3828919462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3829021946",
+        "addr:city": "Grimstad",
+        "addr:postcode": "4885",
+        "craft": "brewery",
+        "name": "Nøgne Ø",
+        "website": "http://www.nogne-o.com/",
+        "wikipedia:en": "Nøgne Ø",
+        "wikipedia:nn": "Nøgne Ø",
+        "wikipedia:no": "Nøgne Ø"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6372155,
+          58.4060461
+        ]
+      },
+      "id": "node/3829021946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3829021948",
+        "addr:city": "Florø",
+        "addr:housenumber": "28",
+        "addr:postcode": "6900",
+        "addr:street": "Strandgata",
+        "craft": "brewery",
+        "name": "Kinn Bryggeri",
+        "operator": "Kinn Bryggeri",
+        "website": "http://kinn.no/",
+        "wikipedia:nn": "Kinn Bryggeri",
+        "wikipedia:no": "Kinn Bryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0312292,
+          61.5999891
+        ]
+      },
+      "id": "node/3829021948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3830772057",
+        "email": "kundesenter@hansaborg.no",
+        "industrial": "brewery",
+        "name": "Hansa Borg Bryggerier",
+        "phone": "81559500",
+        "website": "http://www.hansaborg.no/",
+        "wikidata": "Q145663",
+        "wikipedia": "no:Hansa Borg Bryggerier"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2616087,
+          60.2947103
+        ]
+      },
+      "id": "node/3830772057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3838591230",
+        "addr:city": "Hamar",
+        "addr:postcode": "2317",
+        "addr:street": "Storhamargata 2",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "microbrewery": "yes",
+        "name": "Basarene",
+        "website": "http://www.basarene.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0679612,
+          60.7943881
+        ]
+      },
+      "id": "node/3838591230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842619403",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Larvik Mikrobryggeri",
+        "operator": "Larvik Mikrobryggeri",
+        "website": "http://www.larvikmikrobryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.017372,
+          59.0512895
+        ]
+      },
+      "id": "node/3842619403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842619404",
+        "craft": "brewery",
+        "name": "Holtens",
+        "operator": "Holtens",
+        "website": "http://www.holtens.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9710821,
+          58.9965044
+        ]
+      },
+      "id": "node/3842619404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842619405",
+        "addr:city": "Skien",
+        "addr:housenumber": "745",
+        "addr:postcode": "3739",
+        "addr:street": "Voldsvegen",
+        "craft": "brewery",
+        "name": "Bryggerhuset Veholt",
+        "operator": "Bryggerhuset Veholt",
+        "website": "http://www.veholt.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.549971,
+          59.1396178
+        ]
+      },
+      "id": "node/3842619405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842619439",
+        "craft": "brewery",
+        "name": "Telemark Mikrobryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6154666,
+          59.1987441
+        ]
+      },
+      "id": "node/3842619439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842619440",
+        "addr:city": "Gvarv",
+        "addr:housenumber": "101",
+        "addr:postcode": "3810",
+        "addr:street": "Tinghaugvegen",
+        "craft": "brewery",
+        "name": "Lindheim Ølkompani",
+        "operator": "Lindheim Ølkompani",
+        "website": "http://olkompani.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2019731,
+          59.3850409
+        ]
+      },
+      "id": "node/3842619440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842619441",
+        "industrial": "brewery",
+        "name": "Arendals Bryggeri",
+        "website": "http://www.arendalsbryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7206547,
+          58.463675
+        ]
+      },
+      "id": "node/3842619441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842619442",
+        "addr:city": "Kristiansand S",
+        "addr:housenumber": "9",
+        "addr:postcode": "4632",
+        "addr:street": "Nye Teglverksvei",
+        "craft": "brewery",
+        "name": "Qvart Ølkompani",
+        "operator": "Qvart Ølkompani",
+        "website": "http://www.qvart.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0265279,
+          58.1517819
+        ]
+      },
+      "id": "node/3842619442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842642808",
+        "addr:city": "Mandal",
+        "addr:housenumber": "8",
+        "addr:postcode": "4515",
+        "addr:street": "Keiser Nicolaus gate",
+        "craft": "brewery",
+        "name": "Nua Brygghus",
+        "operator": "Nua Brygghus AS",
+        "website": "http://www.nuabrygghus.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4578639,
+          58.0251226
+        ]
+      },
+      "id": "node/3842642808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842642809",
+        "addr:city": "Lindesnes",
+        "addr:postcode": "4521",
+        "addr:street": "Gahre Næringspark",
+        "craft": "brewery",
+        "name": "Lindesnes Brygghus",
+        "operator": "Lindesnes Brygghus",
+        "website": "http://lindesnesbrygghus.no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1189976,
+          58.0401406
+        ]
+      },
+      "id": "node/3842642809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842671140",
+        "addr:city": "Haugesund",
+        "addr:housenumber": "66",
+        "addr:postcode": "5528",
+        "addr:street": "Smedasundet",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Høvleriet",
+        "operator": "Garasjebryggeriet",
+        "website": "http://hovleriet.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2723659,
+          59.408826
+        ]
+      },
+      "id": "node/3842671140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842750177",
+        "addr:city": "Sand",
+        "addr:postcode": "4230",
+        "addr:street": "Sandsbygda",
+        "craft": "brewery",
+        "name": "Mo Laksegard",
+        "operator": "Mo Laksegard",
+        "website": "http://www.molaks.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2955346,
+          59.4784548
+        ]
+      },
+      "id": "node/3842750177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842750178",
+        "addr:city": "Leikanger",
+        "addr:housenumber": "5",
+        "addr:postcode": "6863",
+        "addr:street": "Riverdalen",
+        "craft": "brewery",
+        "name": "Balder Brygg",
+        "operator": "Balder Brygg AS",
+        "website": "http://www.balderbrygg.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.852887,
+          61.1830418
+        ]
+      },
+      "id": "node/3842750178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842750180",
+        "craft": "brewery",
+        "name": "Tonga Gardsbryggeri",
+        "operator": "Tonga Gardsbryggeri",
+        "website": "http://www.tongabrygg.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9047376,
+          62.3006841
+        ]
+      },
+      "id": "node/3842750180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842750181",
+        "craft": "brewery",
+        "name": "Trollbryggeriet",
+        "operator": "Trollbryggeriet",
+        "website": "http://www.trollbryggeriet.no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0695607,
+          62.3108424
+        ]
+      },
+      "id": "node/3842750181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842750182",
+        "craft": "brewery",
+        "name": "Storli Gard",
+        "operator": "Storli Gard",
+        "website": "http://www.storligard.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0931093,
+          62.6933619
+        ]
+      },
+      "id": "node/3842750182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842750183",
+        "craft": "brewery",
+        "name": "Røros Bryggeri og Mineralvannfabrikk",
+        "website": "http://rorosbryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3236347,
+          62.5577659
+        ]
+      },
+      "id": "node/3842750183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844368712",
+        "craft": "brewery",
+        "name": "Stjørdalsbryggeriet",
+        "operator": "Stjørdalsbryggeriet",
+        "website": "http://stjordalsbryggeriet.no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9419902,
+          63.4867415
+        ]
+      },
+      "id": "node/3844368712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844368713",
+        "craft": "brewery",
+        "name": "Teveltunet Ølbryggeri",
+        "operator": "Teveltunet Ølbryggeri",
+        "website": "http://teveltunet.no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0367139,
+          63.33491
+        ]
+      },
+      "id": "node/3844368713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844605877",
+        "addr:city": "Leinstrand",
+        "addr:housenumber": "20",
+        "addr:postcode": "7083",
+        "addr:street": "Skjefstadbakkan",
+        "craft": "brewery",
+        "name": "Moe Gårdsbryggeri",
+        "operator": "Moe Gårdsbryggeri",
+        "website": "http://www.moegaard.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2756509,
+          63.3421663
+        ]
+      },
+      "id": "node/3844605877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844913350",
+        "craft": "brewery",
+        "name": "Ølve på Egge Bryggeri",
+        "operator": "Ølve på Egge Bryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3313875,
+          64.0428613
+        ]
+      },
+      "id": "node/3844913350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844913352",
+        "craft": "brewery",
+        "name": "Namdalsbryggeriet",
+        "operator": "Namdalsbryggeriet",
+        "website": "http://www.namdalsbryggeriet.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2154002,
+          64.4680205
+        ]
+      },
+      "id": "node/3844913352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844913354",
+        "craft": "brewery",
+        "name": "Hemnes Mikrobryggeri",
+        "operator": "Hemnes Mikrobryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6292651,
+          66.2273131
+        ]
+      },
+      "id": "node/3844913354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844913356",
+        "craft": "brewery",
+        "name": "Markens Grøde",
+        "operator": "Markens Grøde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7640443,
+          67.5167221
+        ]
+      },
+      "id": "node/3844913356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844916457",
+        "craft": "brewery",
+        "name": "Engeløya Håndbryggeri",
+        "operator": "Engeløya Håndbryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0353915,
+          67.9634223
+        ]
+      },
+      "id": "node/3844916457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844916458",
+        "addr:city": "Svolvær",
+        "addr:housenumber": "36",
+        "addr:postcode": "8300",
+        "addr:street": "Fiskergata",
+        "craft": "brewery",
+        "name": "Lofotpils",
+        "operator": "Lofotpils AS",
+        "website": "http://www.lofotpils.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5665979,
+          68.2297592
+        ]
+      },
+      "id": "node/3844916458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844916459",
+        "addr:city": "Evenskjer",
+        "addr:housenumber": "454",
+        "addr:postcode": "9440",
+        "addr:street": "Melladalsveien",
+        "craft": "brewery",
+        "name": "Skavli Brygghus",
+        "operator": "Skavli Brygghus",
+        "website": "http://www.skavli.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6454721,
+          68.5034316
+        ]
+      },
+      "id": "node/3844916459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844916462",
+        "industrial": "brewery",
+        "name": "Mack Bryggeri",
+        "operator": "Mack Bryggeri",
+        "website": "http://www.mack.no",
+        "wikidata": "Q1748810",
+        "wikipedia": "no:Macks Ølbryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5765158,
+          69.2127049
+        ]
+      },
+      "id": "node/3844916462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844916464",
+        "addr:city": "Drammen",
+        "addr:postcode": "3047",
+        "addr:street": "Skogliveien",
+        "craft": "brewery",
+        "name": "Aja Bryggeri",
+        "website": "http://ajabryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1775278,
+          59.7408252
+        ]
+      },
+      "id": "node/3844916464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3844929512",
+        "craft": "brewery",
+        "name": "Sundbytunet",
+        "operator": "Sundbytunet",
+        "website": "http://www.sundbytunet.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1692973,
+          60.1427833
+        ]
+      },
+      "id": "node/3844929512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3846309825",
+        "addr:city": "Aurdal",
+        "addr:housenumber": "797",
+        "addr:postcode": "2910",
+        "addr:street": "Oslovegen",
+        "craft": "brewery",
+        "name": "Små Vesen",
+        "operator": "Små Vesen",
+        "website": "http://www.smaavesen.no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3593258,
+          60.9434823
+        ]
+      },
+      "id": "node/3846309825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3846309826",
+        "addr:city": "Øvre Årdal",
+        "addr:housenumber": "18",
+        "addr:postcode": "6884",
+        "addr:street": "Storevegen",
+        "craft": "brewery",
+        "name": "Tya Bryggeri",
+        "operator": "Tya Bryggeri",
+        "website": "http://tya-bryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.805324,
+          61.3104207
+        ]
+      },
+      "id": "node/3846309826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3954624193",
+        "craft": "brewery",
+        "name": "7 Fjell Bryggeri",
+        "website": "http://www.7fjellbryggeri.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2970705,
+          60.3326292
+        ]
+      },
+      "id": "node/3954624193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3958521857",
+        "amenity": "restaurant",
+        "microbrewery": "yes",
+        "name": "Ansnes brygger",
+        "website": "http://ansnesbrygger.com//"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9958222,
+          63.6387618
+        ]
+      },
+      "id": "node/3958521857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3958757968",
+        "craft": "brewery",
+        "name": "Eiker ølfabrikk",
+        "operator": "Eiker ølfabrikk AS",
+        "website": "http://eikerfab.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0317287,
+          59.7511762
+        ]
+      },
+      "id": "node/3958757968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3962005375",
+        "addr:city": "Bergen",
+        "addr:housenumber": "8",
+        "addr:postcode": "5005",
+        "addr:street": "Klosteret",
+        "alt_name": "Spisekroken",
+        "amenity": "restaurant",
+        "brewery": "Spisekroken",
+        "email": "post@spisekroken.no",
+        "microbrewery": "yes",
+        "name": "Klosteret Mat & Vinhus",
+        "opening_hours": "Mo-Sa 16:00-23:00; Su 15:00-22:00",
+        "phone": "+47 55230115",
+        "website": "http://www.spisekroken.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3151817,
+          60.3948076
+        ]
+      },
+      "id": "node/3962005375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3964096191",
+        "craft": "brewery",
+        "name": "Hadeland Håndverksbryggeri",
+        "website": "http://hadelandhandverksbryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5724912,
+          60.3586669
+        ]
+      },
+      "id": "node/3964096191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3965677046",
+        "craft": "brewery",
+        "name": "Einehaug Micro",
+        "operator": "Einehaugen Micro AS",
+        "website": "http://www.einehaug.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3678209,
+          62.4682679
+        ]
+      },
+      "id": "node/3965677046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3966738144",
+        "craft": "brewery",
+        "name": "Graff Brygghus",
+        "website": "http://graffbrygghus.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9604752,
+          69.6531657
+        ]
+      },
+      "id": "node/3966738144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3967694507",
+        "craft": "brewery",
+        "name": "Senja Handbryggeri",
+        "website": "http://senjahandbryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.617805,
+          69.2110952
+        ]
+      },
+      "id": "node/3967694507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3973055130",
+        "craft": "brewery",
+        "name": "Valdres Gardsbryggeri",
+        "wikipedia:no": "Valdres_Gardsbryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0369742,
+          61.1216843
+        ]
+      },
+      "id": "node/3973055130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3973462652",
+        "craft": "brewery",
+        "name": "MikroMeyer",
+        "website": "http://www.mikromeyer.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.041394,
+          59.6760599
+        ]
+      },
+      "id": "node/3973462652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3976419957",
+        "craft": "brewery",
+        "name": "Lauvanger Mikrobryggeri",
+        "operator": "Lauvanger Mikrobryggeri AS",
+        "website": "http://www.lauvanger.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8035119,
+          68.7472828
+        ]
+      },
+      "id": "node/3976419957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3979275252",
+        "craft": "brewery",
+        "name": "Northern & Co",
+        "website": "http://northernco.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7135032,
+          60.7820234
+        ]
+      },
+      "id": "node/3979275252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3984850616",
+        "craft": "brewery",
+        "name": "St. Hallvards Bryggeri",
+        "website": "http://www.sthallvards.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8754651,
+          59.946356
+        ]
+      },
+      "id": "node/3984850616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3984945861",
+        "amenity": "restaurant",
+        "microbrewery": "yes",
+        "name": "Horten Mikrobryggeri",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4823385,
+          59.4159068
+        ]
+      },
+      "id": "node/3984945861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3985333057",
+        "addr:city": "Trondheim",
+        "addr:housenumber": "20",
+        "addr:postcode": "7011",
+        "addr:street": "Kongens gate",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "microbrewery": "yes",
+        "name": "Frati",
+        "opening_hours": "Mo-Sa 11:00-23:00; Su 13:00-23:00",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.frati.no/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3936429,
+          63.4307698
+        ]
+      },
+      "id": "node/3985333057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3985562986",
+        "amenity": "restaurant",
+        "microbrewery": "yes",
+        "name": "Apotekergaarden",
+        "website": "http://www.apotekergaarden.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5934365,
+          58.3417684
+        ]
+      },
+      "id": "node/3985562986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3986515883",
+        "craft": "brewery",
+        "name": "Lysefjorden Mikrobryggeri",
+        "website": "http://www.lysefjordenmikrobryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4338961,
+          60.4605143
+        ]
+      },
+      "id": "node/3986515883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3986711857",
+        "craft": "brewery",
+        "name": "Storm Brygghus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4026827,
+          63.535825
+        ]
+      },
+      "id": "node/3986711857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3987059802",
+        "addr:city": "Rena",
+        "addr:housenumber": "6",
+        "addr:postcode": "2450",
+        "addr:street": "Hovdmoveien",
+        "craft": "brewery",
+        "name": "Rena Bryggeri",
+        "operator": "Rena BryggeriRena Bryggeri",
+        "website": "http://renabryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3454762,
+          61.1683971
+        ]
+      },
+      "id": "node/3987059802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3987095501",
+        "amenity": "bar",
+        "microbrewery": "yes",
+        "name": "Lillehammer Bryggeri",
+        "operator": "Lillehammer Bryggeri",
+        "website": "http://www.lillehammerbryggeri.no/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4666237,
+          61.1168624
+        ]
+      },
+      "id": "node/3987095501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3987110659",
+        "craft": "brewery",
+        "name": "Gjerberg Bryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4303969,
+          59.4154279
+        ]
+      },
+      "id": "node/3987110659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3987117865",
+        "craft": "brewery",
+        "name": "Granås Gård"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1078261,
+          63.4722793
+        ]
+      },
+      "id": "node/3987117865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3991799794",
+        "craft": "brewery",
+        "name": "Smøla Mikrobryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9764558,
+          63.5102594
+        ]
+      },
+      "id": "node/3991799794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992094038",
+        "alt_name": "Bryggerhuset KvindØL",
+        "amenity": "restaurant",
+        "microbrewery": "yes",
+        "name": "Bryggerhuset"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9611938,
+          58.3162207
+        ]
+      },
+      "id": "node/3992094038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992184069",
+        "craft": "brewery",
+        "name": "Baran Bryggeri",
+        "website": "http://baranbryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3355884,
+          60.2937087
+        ]
+      },
+      "id": "node/3992184069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992197857",
+        "craft": "brewery",
+        "name": "Farsund Brewing Company"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8042367,
+          58.0951231
+        ]
+      },
+      "id": "node/3992197857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992202598",
+        "craft": "brewery",
+        "name": "Oppdal Brygghus",
+        "website": "http://oppdalbrygghus.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6764058,
+          62.5992582
+        ]
+      },
+      "id": "node/3992202598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992281301",
+        "microbrewery": "yes",
+        "name": "Gloppen Hotell",
+        "tourism": "hotel",
+        "website": "http://www.gloppenhotell.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2159506,
+          61.7751182
+        ]
+      },
+      "id": "node/3992281301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3992286064",
+        "amenity": "restaurant",
+        "microbrewery": "yes",
+        "name": "Nutheim gjestgiveri",
+        "tourism": "hotel",
+        "website": "http://nutheim.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5481166,
+          59.5705083
+        ]
+      },
+      "id": "node/3992286064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3993257974",
+        "craft": "brewery",
+        "name": "Hunsfos Bryggeri",
+        "website": "http://hunsfos-bryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9680735,
+          58.2635976
+        ]
+      },
+      "id": "node/3993257974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3993461963",
+        "amenity": "restaurant",
+        "microbrewery": "yes",
+        "name": "Tingnes spiseri",
+        "website": "http://tingnesspiseri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9414484,
+          60.7625803
+        ]
+      },
+      "id": "node/3993461963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4001197495",
+        "craft": "brewery",
+        "name": "Harstad Bryggeri",
+        "website": "http://harstadbryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5396908,
+          68.7950394
+        ]
+      },
+      "id": "node/4001197495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4004132990",
+        "craft": "brewery",
+        "name": "Geiranger Bryggeri",
+        "website": "http://geirangerbryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2144059,
+          62.095915
+        ]
+      },
+      "id": "node/4004132990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4004537184",
+        "alt_name": "Ale by Alex",
+        "craft": "brewery",
+        "name": "Fet Hjemmebryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1886947,
+          59.8953434
+        ]
+      },
+      "id": "node/4004537184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4005863068",
+        "craft": "brewery",
+        "name": "Kvernafossen Bryggeri",
+        "website": "http://www.kvernafossen.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7860429,
+          61.3192088
+        ]
+      },
+      "id": "node/4005863068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4020210424",
+        "addr:city": "Bergen",
+        "addr:floor": "3",
+        "addr:housenumber": "2",
+        "addr:postcode": "5014",
+        "addr:street": "Torget",
+        "amenity": "pub",
+        "email": "christine@ricks.no",
+        "microbrewery": "yes",
+        "name": "Bryggeriet bar",
+        "opening_hours": "Tu-Sa 15:00-01:30",
+        "phone": "+47 55 553155",
+        "website": "http://www.zabr.no/restauranter/bryggeriet/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3251873,
+          60.3952866
+        ]
+      },
+      "id": "node/4020210424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4050684835",
+        "craft": "brewery",
+        "name": "Günerløkka Brygghus",
+        "web": "http://brygghus.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7624362,
+          59.9248882
+        ]
+      },
+      "id": "node/4050684835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4051802489",
+        "craft": "brewery",
+        "name": "Bryggeri 13",
+        "website": "http://bryggeri13.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9697181,
+          69.6667034
+        ]
+      },
+      "id": "node/4051802489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4057924307",
+        "craft": "brewery",
+        "name": "Fjellbryggeriet",
+        "website": "http://www.fjellbryggeriet.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.749079,
+          59.7944074
+        ]
+      },
+      "id": "node/4057924307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4069652466",
+        "craft": "brewery",
+        "name": "Salamander bryggeri",
+        "website": "http://www.salamanderbryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3582981,
+          59.499567
+        ]
+      },
+      "id": "node/4069652466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4070472091",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Saloon 7null4",
+        "website": "http://www.saloon7null4.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2863135,
+          61.2214872
+        ]
+      },
+      "id": "node/4070472091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4070480298",
+        "craft": "brewery",
+        "name": "Skudenes Bryggeri",
+        "website": "http://skudenesbryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2729781,
+          59.1440194
+        ]
+      },
+      "id": "node/4070480298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4118673581",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "På hjørnet",
+        "website": "http://www.xn--paahjrnet-p8a.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0991183,
+          60.5693588
+        ]
+      },
+      "id": "node/4118673581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4121727389",
+        "craft": "brewery",
+        "name": "Salikatt bryggeri",
+        "website": "http://www.salikattbryggeri.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7260539,
+          58.9454828
+        ]
+      },
+      "id": "node/4121727389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4202341398",
+        "craft": "brewery",
+        "name": "Skifjorden Bryggeri",
+        "website": "http://skifjorden.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1119528,
+          61.2435417
+        ]
+      },
+      "id": "node/4202341398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4296845121",
+        "addr:city": "Oslo",
+        "addr:country": "NO",
+        "addr:housenumber": "27",
+        "addr:postcode": "0184",
+        "addr:street": "Storgata",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Himkok",
+        "website": "http://www.himkok.no/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7515703,
+          59.914181
+        ]
+      },
+      "id": "node/4296845121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4326283156",
+        "craft": "brewery",
+        "name": "Ludwig Mack Brygghus",
+        "operator": "Macks Ølbryggeri AS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9502612,
+          69.6458666
+        ]
+      },
+      "id": "node/4326283156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4414434160",
+        "addr:city": "Trondheim",
+        "addr:housenumber": "30",
+        "addr:postcode": "7011",
+        "addr:street": "Olav Tryggvasons gate",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "microbrewery": "yes",
+        "name": "Habitat",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr, Sa 11:00-02:00",
+        "operator": "Monkey Brew",
+        "outdoor_seating": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3954109,
+          63.4333699
+        ]
+      },
+      "id": "node/4414434160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4423975891",
+        "craft": "brewery",
+        "name": "Bådin bryggeri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3654162,
+          67.2787053
+        ]
+      },
+      "id": "node/4423975891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4472271068",
+        "addr:city": "Sørum",
+        "addr:housenumber": "23",
+        "addr:postcode": "1923",
+        "addr:street": "Norumvegen",
+        "craft": "brewery",
+        "name": "Norumbryggeriet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2337393,
+          60.0344979
+        ]
+      },
+      "id": "node/4472271068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4602190639",
+        "craft": "brewery",
+        "name": "Odalsbryggeriet",
+        "website": "http://odalsbryggeriet.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.570823,
+          60.4133473
+        ]
+      },
+      "id": "node/4602190639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5109362810",
+        "craft": "brewery",
+        "name": "Stokkøy Bryggeri AS",
+        "website": "https://www.facebook.com/Stokk%C3%B8y-Bryggeri-As-537115406447254/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0185691,
+          64.0475035
+        ]
+      },
+      "id": "node/5109362810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5202389883",
+        "addr:city": "Trondheim",
+        "addr:housenumber": "9",
+        "addr:postcode": "7028",
+        "addr:street": "Forsøkslia",
+        "amenity": "bar",
+        "microbrewery": "yes",
+        "name": "Brew Lab & Hammerhead Brewing Company taproom",
+        "operator": "Hammerhead Brewing Company",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3638193,
+          63.3839224
+        ]
+      },
+      "id": "node/5202389883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5329916240",
+        "amenity": "pub",
+        "microbrewery": "yes",
+        "name": "Heim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6924601,
+          60.7955471
+        ]
+      },
+      "id": "node/5329916240"
+    }
+  ]
+}
