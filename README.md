@@ -2,6 +2,6 @@
 
 ## Kom i gang 
 
-[Installasjon](installasjon.md) 
+Sett opp hele sulamitten som beskrevet her: [Installasjon](installasjon.md) 
 
 # Screenshots
