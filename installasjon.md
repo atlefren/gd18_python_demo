@@ -14,11 +14,13 @@ Dette er en windows kommandolinje med litt utvidede funksjoner. Du bruker **anac
     - ```git clone https://github.com/atlefren/gd18_python_demo.git```
     - Eller du kan laste ned denne [zip-fila](https://github.com/atlefren/gd18_python_demo/archive/master.zip) og pakke ut et passende sted. 
 
-## Lag et Anaconda-environment
-- I anaconda promt navigerer du deg til gd18_python_demo
+## Lag et Anaconda-environment 
+- I anaconda promt navigerer du deg til gd18_python_demo. (Linux: Bruk vanlig shell)
 - lag et environment: ```conda env create -f environment.yml```
-- aktiver environmentet: ```conda activate geomatikkdagene18```
-
+- aktiver environmentet: 
+    - Windows: ```conda activate geomatikkdagene18```
+    - Linux: ```source activate geomatikkdagene18```
+	
 ## kjør opp notebooken
 - ```jupyter notebook```
 
