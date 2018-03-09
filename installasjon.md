@@ -17,7 +17,7 @@ Dette er en windows kommandolinje med litt utvidede funksjoner. Du bruker **anac
 ## Lag et Anaconda-environment
 - I anaconda promt navigerer du deg til gd18_python_demo
 - lag et environment: ```conda env create -f environment.yml```
-- aktiver environmentet: ```conda activate gd18```
+- aktiver environmentet: ```conda activate geomatikkdagene18```
 
 ## kjør opp notebooken
 - ```jupyter notebook```
