@@ -19,7 +19,7 @@ Dette er en windows kommandolinje med litt utvidede funksjoner. Du bruker **anac
 - lag et environment: ```conda env create -f environment.yml```
 - aktiver environmentet: 
     - Windows: ```conda activate geomatikkdagene18```
-    - Linux: ```source activate geomatikkdagene18```
+    - Linux / Mac: ```source activate geomatikkdagene18```
 	
 ## kjør opp notebooken
 - ```jupyter notebook```
@@ -29,7 +29,7 @@ Dette er en windows kommandolinje med litt utvidede funksjoner. Du bruker **anac
 Start notebook, naviger til riktig mappe og åpne et av ```.ipynb``` - eksemplene. Velg "Cell -> Run all"
 
 Notebook kan startes på flere måter: 
-* Fra anaconda prompt (eller linux shell): ```jupyter notebook```
+* Fra anaconda prompt (eller linux shell): ```jupyter notebook``` (anbefalt!)
 * Fra anaconda navigator 
 * Fra programmenyen (Start -> Alle programmer -> Anaconda3 -> Jupyter notebook)
 
